@@ -4,6 +4,9 @@
 
 class Player {
   //TODO: Add constructor()
+  constructor(){
+    this.playlist = ['Song1.mp3'];
+  }
 
   //TODO: Add Play()
 
