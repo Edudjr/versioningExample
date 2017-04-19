@@ -14,6 +14,9 @@ class Player {
   }
 
   //TODO: Add Pause()
+  pause(){
+    console.log('Paused');
+  }
 
   //TODO: Add Stop()
 
