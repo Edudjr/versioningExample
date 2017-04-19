@@ -4,8 +4,14 @@
 
 class Player {
   //TODO: Add constructor()
+  constructor(){
+    this.playlist = ['Song1.mp3'];
+  }
 
   //TODO: Add Play()
+  play(){
+    console.log('Playing song1');
+  }
 
   //TODO: Add Pause()
 
