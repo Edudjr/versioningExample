@@ -10,7 +10,7 @@ class Player {
 
   //TODO: Add Play()
   play(){
-    console.log('Playing song1');
+    console.log('Playing Song1.mp3');
   }
 
   //TODO: Add Pause()
