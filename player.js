@@ -15,7 +15,7 @@ class Player {
 
   //TODO: Add Pause()
   pause(){
-    console.log('Paused');
+    console.log('Paused Song1.mp3');
   }
 
   //TODO: Add Stop()
