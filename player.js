@@ -1,6 +1,6 @@
-//version 0.1.0
-//build number 2
-//tag 0.1.0.2
+//version 0.1.1
+//build number 4
+//tag 0.1.1.4
 
 class Player {
   //TODO: Add constructor()
@@ -14,6 +14,9 @@ class Player {
   }
 
   //TODO: Add Pause()
+  pause(){
+    console.log('Paused Song1.mp3');
+  }
 
   //TODO: Add Stop()
 
