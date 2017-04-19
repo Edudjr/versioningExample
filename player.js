@@ -9,6 +9,9 @@ class Player {
   }
 
   //TODO: Add Play()
+  play(){
+    console.log('Playing song1');
+  }
 
   //TODO: Add Pause()
 
